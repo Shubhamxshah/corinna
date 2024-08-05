@@ -1,17 +1,16 @@
-<div>
-<h2> Clean and sleek landing page </h2>
-![clean and sleek landing page](https://raw.githubusercontent.com/Shubhamxshah/corinna/main/public/readme/Screenshot%20from%202024-08-05%2021-34-48.png)
-<h2> cloudways integration for blogs which provides seo optimization </h2>
+## Clean and sleek landing page
+![Clean and sleek landing page](https://raw.githubusercontent.com/Shubhamxshah/corinna/main/public/readme/Screenshot%20from%202024-08-05%2021-34-48.png)
+
+## Cloudways integration for blogs which provides SEO optimization
 ![Cloudways integration](https://raw.githubusercontent.com/Shubhamxshah/corinna/main/public/readme/Screenshot%20from%202024-08-05%2021-35-26.png)
-<h2>  Dashboard </h2>
+
+## Dashboard
 ![Dashboard](https://raw.githubusercontent.com/Shubhamxshah/corinna/main/public/readme/Screenshot%20from%202024-08-05%2021-36-11.png)
-<h2>  chatbot </h2>
+
+## Chatbot
 ![Chatbot](https://raw.githubusercontent.com/Shubhamxshah/corinna/main/public/readme/Screenshot%20from%202024-08-05%2021-37-09.png)
-</div>
 
-
-
-
+---
 
 
 🤖 Automated AI sales rep (AI chatbot) <br>
