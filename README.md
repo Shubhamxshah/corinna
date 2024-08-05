@@ -1,21 +1,21 @@
-🤖 Automated AI sales rep (AI chatbot)
-📅 Books appointments and processes payments
-💻 Usable on any website with a simple code
-🧠 Smart question linking
-💬 Real-time chat (manual/automated)
-🏷️ White-labeling options
-🎨 Customizable interface
-🗓️ Calendar widget for bookings
-💳 Integrates with Stripe for payments
-✉️ Simple email marketing
-💰 Financial dashboard
-💾 Save visitor info as leads
-🔐 Custom login/signup with OTP
-📲 Secure file/image uploads
-🔍 SEO optimized blogging
-🏗️ Improved architecture
-🖥️ Minimal, stunning UI
-❓ FAQ section
-🌓 Light/dark mode toggle
-⚙️ Feature control settings
-🔒 Restrict features by plan
+🤖 Automated AI sales rep (AI chatbot) <br>
+📅 Books appointments and processes payments <br>
+💻 Usable on any website with a simple code <br>
+🧠 Smart question linking <br>
+💬 Real-time chat (manual/automated) <br>
+🏷️ White-labeling options <br>
+🎨 Customizable interface <br>
+🗓️ Calendar widget for bookings <br>
+💳 Integrates with Stripe for payments <br>
+✉️ Simple email marketing <br>
+💰 Financial dashboard <br>
+💾 Save visitor info as leads <br>
+🔐 Custom login/signup with OTP <br>
+📲 Secure file/image uploads <br>
+🔍 SEO optimized blogging <br>
+🏗️ Improved architecture <br>
+🖥️ Minimal, stunning UI <br>
+❓ FAQ section <br>
+🌓 Light/dark mode toggle <br>
+⚙️ Feature control settings <br>
+🔒 Restrict features by plan <br>
