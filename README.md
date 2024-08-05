@@ -1,4 +1,12 @@
+> Clean and sleek landing page
 ![clean and sleek landing page](https://github.com/Shubhamxshah/corinna/blob/main/public/readme/Screenshot%20from%202024-08-05%2021-34-48.png)
+> cloudways integration for blogs which provides seo optimization
+![Image description](https://github.com/Shubhamxshah/corinna/blob/main/public/readme/Screenshot%20from%202024-08-05%2021-35-26.png)
+> Dashboard
+> ![Image description](https://github.com/Shubhamxshah/corinna/blob/main/public/readme/Screenshot%20from%202024-08-05%2021-36-11.png)
+> chatbot
+> ![Image description](https://github.com/Shubhamxshah/corinna/blob/main/public/readme/Screenshot%20from%202024-08-05%2021-37-09.png)
+
 
 
 
