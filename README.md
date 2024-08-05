@@ -1,3 +1,20 @@
+> clean and pretty Landing page
+/home/shubhamxshah/Pictures/Screenshots/Screenshot from 2024-08-05 21-34-48.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 🤖 Automated AI sales rep (AI chatbot) <br>
 📅 Books appointments and processes payments <br>
 💻 Usable on any website with a simple code <br>
