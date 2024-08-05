@@ -13,7 +13,7 @@ type Props = {
   text: string
   register: UseFormRegister<FieldValues>
   userType: 'owner' | 'student'
-  setUserType: React.Dispatch<React.SetStateAction<'owner' | 'student'>> 
+  setUserType: React.Dispatch<React.SetStateAction<'owner' | 'student'>>
 }
 
 const UserTypeCard = ({
@@ -63,7 +63,7 @@ const UserTypeCard = ({
                 userType == value ? 'bg-orange' : 'bg-transparent'
               )}
             >
-              <Input                                                               // doubt
+              <Input
                 {...register('type', {
                   onChange: (event) => setUserType(event.target.value),
                 })}

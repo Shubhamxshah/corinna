@@ -10,25 +10,28 @@ function NavBar() {
         <Image
           src="/images/logo.png"
           alt="LOGO"
-          sizes="100px"
+          sizes="100vw"
           style={{
             width: '100px',
             height: 'auto',
           }}
-          width={100}
-          height={100} // Set height as 100 or adjust according to your design
+          width={0}
+          height={0}
         />
       </div>
       <ul className="gap-5 justify-between self-stretch my-auto text-sm leading-5 text-neutral-700 max-md:flex-wrap max-md:max-w-full font-normal hidden md:flex">
-        <li><Link href="/">Home</Link></li>
-        <li><Link href="/pricing">Pricing</Link></li>
-        <li><Link href="/newsroom">News Room</Link></li>
-        <li><Link href="/features">Features</Link></li>
-        <li><Link href="/contact">Contact us</Link></li>
+        <li>Home</li>
+        <li>Pricing</li>
+        <li>News Room</li>
+        <li>Features</li>
+        <li>Contact us</li>
       </ul>
-      <Button variant="primary" className="bg-orange px-4 py-2 rounded-sm text-white">
-        <Link href="/dashboard">Free Trial</Link>
-      </Button>
+      <Link
+        href="/dashboard"
+        className="bg-orange px-4 py-2 rounded-sm text-white"
+      >
+        Free Trial
+      </Link>
     </div>
   )
 }

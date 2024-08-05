@@ -1,6 +1,4 @@
 "use client"
-
-//basically watch plura to understand this code.
 import React, { useState } from 'react'
 
 type InitialValuesProps = {
