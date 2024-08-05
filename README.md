@@ -1,4 +1,5 @@
-![clean and sleek Landing page](public/readme/Screenshot from 2024-08-05 21-34-48.png)
+![clean and sleek landing page](https://github.com/Shubhamxshah/corinna/blob/main/public/readme/Screenshot%20from%202024-08-05%2021-34-48.png)
+
 
 
 
